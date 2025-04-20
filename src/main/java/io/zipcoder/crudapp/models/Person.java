@@ -1,4 +1,4 @@
-package models;
+package io.zipcoder.crudapp.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
